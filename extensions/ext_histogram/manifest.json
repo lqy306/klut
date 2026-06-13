@@ -1,0 +1,14 @@
+{
+    "name": "Histogram Analyzer",
+    "name_zh": "直方图分析",
+    "id": "ext_histogram",
+    "version": "1.0.0",
+    "author": "klut",
+    "license": "BSD-2-Clause",
+    "type": "python",
+    "description": "Real-time RGB/HSV histogram from the current image",
+    "description_zh": "实时显示当前图片的 RGB/HSV 直方图",
+    "entry": "ext_histogram.py",
+    "depends": [],
+    "min_app_version": "1.0"
+}

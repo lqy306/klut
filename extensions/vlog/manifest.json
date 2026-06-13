@@ -1,0 +1,12 @@
+{
+    "name": "V-Log",
+    "name_zh": "V-Log (Panasonic)",
+    "id": "vlog",
+    "version": "1.0.0",
+    "author": "klut",
+    "license": "BSD-2-Clause",
+    "type": "colorspace",
+    "description": "Panasonic V-Log colorspace support",
+    "description_zh": "Panasonic V-Log 色彩空间支持",
+    "entry": "__init__.py"
+}

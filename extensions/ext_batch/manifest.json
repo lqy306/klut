@@ -1,0 +1,14 @@
+{
+    "name": "Batch Processor",
+    "name_zh": "批量处理",
+    "id": "ext_batch",
+    "version": "1.0.0",
+    "author": "klut",
+    "license": "BSD-2-Clause",
+    "type": "python",
+    "description": "Apply LUT + adjustments to multiple images, export results",
+    "description_zh": "批量应用 LUT 和调色参数到多张图片",
+    "entry": "ext_batch.py",
+    "depends": [],
+    "min_app_version": "1.0"
+}

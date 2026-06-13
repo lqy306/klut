@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.o
+build/
+dist/
+*.spec
+*.klutx
+extensions/settings.json

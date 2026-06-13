@@ -1,0 +1,12 @@
+{
+    "name": "S-Log3",
+    "name_zh": "S-Log3 (Sony)",
+    "id": "slog3",
+    "version": "1.0.0",
+    "author": "klut",
+    "license": "BSD-2-Clause",
+    "type": "colorspace",
+    "description": "Sony S-Log3 colorspace support",
+    "description_zh": "Sony S-Log3 色彩空间支持",
+    "entry": "__init__.py"
+}

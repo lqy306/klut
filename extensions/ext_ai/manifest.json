@@ -1,0 +1,15 @@
+{
+    "name": "AI Style Evaluation",
+    "name_zh": "AI 风格评估",
+    "id": "ext_ai",
+    "version": "1.0.0",
+    "author": "klut",
+    "license": "BSD-2-Clause",
+    "type": "python",
+    "description": "AI-powered LUT style evaluation and ranking",
+    "description_zh": "AI 驱动的 LUT 风格评估与排序",
+    "entry": "ext_ai.py",
+    "depends": [],
+    "min_app_version": "1.0",
+    "icon": "🎨"
+}

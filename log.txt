@@ -1,0 +1,589 @@
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core: Connection::send() called with connection not inited
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core: An error occurred during write. The worker terminates now.
+QThreadStorage: Thread 0x55fa4f1398d0 exited after QThreadStorage 8 destroyed
+QThreadStorage: Thread 0x55fa4f1398d0 exited after QThreadStorage 2 destroyed
+QThreadStorage: Thread 0x55fa4f1398d0 exited after QThreadStorage 1 destroyed
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core: An error occurred during write. The worker terminates now.
+QThreadStorage: Thread 0x55f433d1d8d0 exited after QThreadStorage 8 destroyed
+QThreadStorage: Thread 0x55f433d1d8d0 exited after QThreadStorage 2 destroyed
+QThreadStorage: Thread 0x55f433d1d8d0 exited after QThreadStorage 1 destroyed
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core: An error occurred during write. The worker terminates now.
+QThreadStorage: Thread 0x5653266268d0 exited after QThreadStorage 8 destroyed
+QThreadStorage: Thread 0x5653266268d0 exited after QThreadStorage 2 destroyed
+QThreadStorage: Thread 0x5653266268d0 exited after QThreadStorage 1 destroyed
+qt.gui.imageio.jpeg: Corrupt JPEG data: premature end of data segment
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core: An error occurred during write. The worker terminates now.
+QThreadStorage: Thread 0x55be9a47f8d0 exited after QThreadStorage 8 destroyed
+QThreadStorage: Thread 0x55be9a47f8d0 exited after QThreadStorage 2 destroyed
+QThreadStorage: Thread 0x55be9a47f8d0 exited after QThreadStorage 1 destroyed
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core: An error occurred during write. The worker terminates now.
+QThreadStorage: Thread 0x55b68e5408d0 exited after QThreadStorage 8 destroyed
+QThreadStorage: Thread 0x55b68e5408d0 exited after QThreadStorage 2 destroyed
+QThreadStorage: Thread 0x55b68e5408d0 exited after QThreadStorage 1 destroyed
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core: An error occurred during write. The worker terminates now.
+QThreadStorage: Thread 0x561a6bc9e8d0 exited after QThreadStorage 8 destroyed
+QThreadStorage: Thread 0x561a6bc9e8d0 exited after QThreadStorage 2 destroyed
+QThreadStorage: Thread 0x561a6bc9e8d0 exited after QThreadStorage 1 destroyed
+kf.kio.core.connection: Socket not connected QLocalSocket::PeerClosedError
+kf.kio.core: An error occurred during write. The worker terminates now.
+QThreadStorage: Thread 0x55b1e0c5d8d0 exited after QThreadStorage 8 destroyed
+QThreadStorage: Thread 0x55b1e0c5d8d0 exited after QThreadStorage 2 destroyed
+QThreadStorage: Thread 0x55b1e0c5d8d0 exited after QThreadStorage 1 destroyed
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+^CTraceback (most recent call last):
+  File "/home/lqy/klut/app.py", line 245, in selectImage
+    self._load_current_image()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/lqy/klut/app.py", line 440, in _load_current_image
+    img = QImage(path)
+KeyboardInterrupt
+file:///home/lqy/klut/./ui/main.qml:385: Error
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+file:///home/lqy/klut/./ui/main.qml:596: ReferenceError: parent is not defined
+已杀死
+lqy@debian:~/klut$
+[2026-06-12 20:22:22] INFO  klut backend initialized
+[2026-06-12 20:24:13] INFO  klut backend initialized
+[2026-06-12 20:24:22] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-12 20:24:22] INFO  Loaded 10 image(s)
+[2026-06-12 20:24:36] INFO  PLQY0778.JPG | default_bleach | 757ms
+[2026-06-12 20:24:36] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-12 20:24:43] INFO  PLQY0779.JPG | default_bleach | 727ms
+[2026-06-12 20:24:43] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-12 20:24:46] INFO  PLQY0780.JPG | default_bleach | 692ms
+[2026-06-12 20:24:46] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-12 20:26:10] INFO  PLQY0781.JPG | default_bleach | 729ms
+[2026-06-12 20:26:10] INFO  Loaded: PLQY0781.JPG (1023x682)
+[2026-06-12 20:26:11] INFO  PLQY0781.JPG | default_bleach | 826ms
+[2026-06-12 20:26:11] INFO  Loaded: PLQY0781.JPG (1023x682)
+[2026-06-12 20:26:18] INFO  PLQY0781.JPG | default_blue | 698ms
+[2026-06-12 20:26:19] INFO  PLQY0781.JPG | default_brass | 690ms
+[2026-06-12 20:26:25] INFO  PLQY0781.JPG | default_chrome | 694ms
+[2026-06-12 20:26:27] INFO  PLQY0781.JPG | default_chrome | 720ms
+[2026-06-12 20:26:27] INFO  PLQY0781.JPG | default_chrome | 700ms
+[2026-06-12 20:26:28] INFO  PLQY0781.JPG | default_classic | 690ms
+[2026-06-12 20:26:29] INFO  PLQY0781.JPG | default_classic | 699ms
+[2026-06-12 20:26:33] INFO  PLQY0780.JPG | default_classic | 670ms
+[2026-06-12 20:26:33] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-12 20:26:37] INFO  PLQY0780.JPG | default_sepia | 696ms
+[2026-06-12 20:26:38] INFO  PLQY0780.JPG | default_sepia | 741ms
+[2026-06-12 20:26:39] INFO  PLQY0780.JPG | default_sepia | 711ms
+[2026-06-12 20:28:31] INFO  klut backend initialized
+[2026-06-12 20:28:44] INFO  klut backend initialized
+[2026-06-12 20:29:12] INFO  klut backend initialized
+[2026-06-12 20:29:13] INFO  Loaded 2 image(s)
+[2026-06-12 20:29:22] INFO  klut backend initialized
+[2026-06-12 20:29:22] INFO  Loaded: _klut_test.png (100x100)
+[2026-06-12 20:29:22] INFO  Loaded 1 image(s)
+[2026-06-12 20:29:22] INFO  _klut_test.png | _klut_test | 8ms
+[2026-06-12 20:30:40] INFO  klut backend initialized
+[2026-06-12 20:30:47] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-12 20:30:47] INFO  Loaded 10 image(s)
+[2026-06-12 20:30:56] INFO  PLQY0777.JPG | default_bleach | 751ms
+[2026-06-12 20:31:00] INFO  PLQY0777.JPG | default_blue | 723ms
+[2026-06-12 20:31:01] INFO  PLQY0777.JPG | default_blue | 763ms
+[2026-06-12 20:31:02] INFO  PLQY0777.JPG | default_brass | 720ms
+[2026-06-12 20:31:02] INFO  PLQY0777.JPG | default_brass | 734ms
+[2026-06-12 20:31:06] INFO  PLQY0778.JPG | default_brass | 693ms
+[2026-06-12 20:31:06] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-12 20:31:08] INFO  PLQY0779.JPG | default_brass | 740ms
+[2026-06-12 20:31:08] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-12 20:31:12] INFO  PLQY0779.JPG | default_gregwilliams | 680ms
+[2026-06-12 20:31:14] INFO  PLQY0780.JPG | default_gregwilliams | 682ms
+[2026-06-12 20:31:14] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-12 20:34:03] INFO  klut backend initialized
+[2026-06-12 20:36:20] INFO  klut backend initialized
+[2026-06-12 20:36:37] INFO  PLQY0777.JPG | default_bleach | 845ms
+[2026-06-12 20:36:37] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-12 20:36:37] INFO  Loaded 10 image(s)
+[2026-06-12 20:36:59] INFO  PLQY0778.JPG | default_bleach | 794ms
+[2026-06-12 20:36:59] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-12 20:37:00] INFO  PLQY0778.JPG | default_blue | 743ms
+[2026-06-12 20:39:25] INFO  klut backend initialized
+[2026-06-12 20:39:35] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-12 20:39:35] INFO  Loaded 10 image(s)
+[2026-06-12 20:39:42] INFO  PLQY0777.JPG | default_bleach | 822ms
+[2026-06-12 20:39:57] INFO  PLQY0777.JPG | mono_sepia | 812ms
+[2026-06-12 20:39:58] INFO  PLQY0777.JPG | mono_sepia | 838ms
+[2026-06-12 20:41:47] INFO  === STARTUP TEST ===
+[2026-06-12 20:41:47] INFO  klut backend initialized
+[2026-06-12 20:41:47] INFO  Backend created OK
+[2026-06-12 20:41:47] INFO  _render_combined (no images) OK
+[2026-06-12 20:41:47] INFO  setSplit (no images) OK
+[2026-06-12 20:41:47] INFO    imageCount = 0
+[2026-06-12 20:41:47] INFO    currentImageIndex = -1
+[2026-06-12 20:41:47] INFO    lutCount = 0
+[2026-06-12 20:41:47] INFO    currentLutIndex = -1
+[2026-06-12 20:41:47] INFO    srcCsIndex = 0
+[2026-06-12 20:41:47] INFO    lutCsIndex = 0
+[2026-06-12 20:41:47] INFO    lutImagePath = ''
+[2026-06-12 20:41:47] INFO    accentColor = '#0099ff'
+[2026-06-12 20:41:47] INFO    showWatermark = True
+[2026-06-12 20:41:47] INFO    maxPreview = 1024
+[2026-06-12 20:41:47] INFO    splitPos = 0.5
+[2026-06-12 20:41:47] INFO  All startup checks PASSED
+[2026-06-12 20:41:51] INFO  klut backend initialized
+[2026-06-12 20:43:13] INFO  klut backend initialized
+[2026-06-12 20:43:58] INFO  klut backend initialized
+[2026-06-12 20:44:05] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-12 20:44:05] INFO  Loaded 10 image(s)
+[2026-06-12 20:44:14] INFO  PLQY0777.JPG | default_bleach | 903ms
+[2026-06-12 20:53:16] INFO  klut backend initialized
+[2026-06-12 20:53:24] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-12 20:53:24] INFO  Loaded 10 image(s)
+[2026-06-12 20:53:31] INFO  PLQY0777.JPG | default_bleach | 832ms
+[2026-06-12 20:57:00] INFO  klut backend initialized
+[2026-06-12 20:58:05] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-12 20:58:05] INFO  Loaded 10 image(s)
+[2026-06-12 20:58:15] INFO  PLQY0777.JPG | default_bleach | 868ms
+[2026-06-12 20:58:47] INFO  PLQY0778.JPG | default_bleach | 791ms
+[2026-06-12 20:58:47] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-12 20:58:48] INFO  PLQY0778.JPG | default_bleach | 791ms
+[2026-06-12 20:58:48] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-12 20:58:53] INFO  klut backend initialized
+[2026-06-12 20:59:02] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-12 20:59:02] INFO  Loaded 1 image(s)
+[2026-06-12 20:59:11] INFO  PLQY0780.JPG | default_bleach | 817ms
+[2026-06-12 20:59:27] INFO  PLQY0780.JPG | default_blue | 826ms
+[2026-06-12 20:59:28] INFO  PLQY0780.JPG | default_blue | 813ms
+[2026-06-12 20:59:35] INFO  Launching extension: ext_ai
+[2026-06-12 20:59:35] INFO  AiEvalDialog showing…
+[2026-06-12 20:59:40] INFO  AiEvalDialog closed
+[2026-06-12 20:59:40] INFO  Extension launched: ext_ai
+[2026-06-12 21:01:34] INFO  klut backend initialized
+[2026-06-12 21:03:05] INFO  klut backend initialized
+[2026-06-12 21:03:06] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-12 21:03:06] INFO  Restored 1 image(s)
+[2026-06-12 21:03:07] INFO  PLQY0780.JPG | default_bleach | 781ms
+[2026-06-12 21:03:07] INFO  Restored 16 LUT(s)
+[2026-06-12 21:03:51] INFO  PLQY0780.JPG | default_blue | 746ms
+[2026-06-12 21:03:51] INFO  PLQY0780.JPG | default_blue | 809ms
+[2026-06-12 21:03:52] INFO  PLQY0780.JPG | default_blue | 761ms
+[2026-06-12 21:03:53] INFO  PLQY0780.JPG | default_blue | 761ms
+[2026-06-12 21:03:55] INFO  PLQY0780.JPG | default_brass | 754ms
+[2026-06-12 21:03:56] INFO  PLQY0780.JPG | default_brass | 741ms
+[2026-06-12 21:03:57] INFO  PLQY0780.JPG | default_brass | 733ms
+[2026-06-12 21:03:58] INFO  PLQY0780.JPG | default_chrome | 792ms
+[2026-06-12 21:03:58] INFO  PLQY0780.JPG | default_chrome | 811ms
+[2026-06-12 21:06:36] INFO  klut backend initialized
+[2026-06-12 21:06:37] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-12 21:06:37] INFO  Restored 1 image(s)
+[2026-06-12 21:06:38] INFO  PLQY0780.JPG | default_bleach | 789ms
+[2026-06-12 21:06:38] INFO  Restored 16 LUT(s)
+[2026-06-12 21:06:49] INFO  PLQY0780.JPG | default_blue | 810ms
+[2026-06-12 21:06:49] INFO  PLQY0780.JPG | default_blue | 771ms
+[2026-06-12 21:06:50] INFO  PLQY0780.JPG | default_blue | 762ms
+[2026-06-12 21:09:43] INFO  klut backend initialized
+[2026-06-12 21:09:43] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-12 21:09:43] INFO  Restored 1 image(s)
+[2026-06-12 21:09:44] INFO  PLQY0780.JPG | default_bleach | 789ms
+[2026-06-12 21:09:44] INFO  Restored 16 LUT(s)
+[2026-06-12 21:09:53] INFO  PLQY0780.JPG | default_blue | 734ms
+[2026-06-12 21:09:54] INFO  PLQY0780.JPG | default_bleach | 784ms
+[2026-06-12 21:09:56] INFO  PLQY0780.JPG | default_blue | 721ms
+[2026-06-12 21:09:57] INFO  PLQY0780.JPG | default_blue | 758ms
+[2026-06-13 08:51:53] INFO  klut backend initialized
+[2026-06-13 08:51:53] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 08:51:53] INFO  Restored 1 image(s)
+[2026-06-13 08:51:54] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:51:54] INFO  PLQY0780.JPG | default_bleach | 639ms
+[2026-06-13 08:51:54] INFO  Restored 16 LUT(s)
+[2026-06-13 08:52:05] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:52:05] INFO  PLQY0780.JPG | default_blue | 547ms
+[2026-06-13 08:52:05] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:52:05] INFO  PLQY0780.JPG | default_blue | 550ms
+[2026-06-13 08:52:09] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:52:09] INFO  PLQY0780.JPG | default_brass | 547ms
+[2026-06-13 08:52:09] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:52:09] INFO  PLQY0780.JPG | default_brass | 561ms
+[2026-06-13 08:52:11] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:52:11] INFO  PLQY0780.JPG | default_chrome | 584ms
+[2026-06-13 08:52:11] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:52:11] INFO  PLQY0780.JPG | default_chrome | 562ms
+[2026-06-13 08:52:15] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:52:15] INFO  PLQY0780.JPG | default_chrome | 1536ms
+[2026-06-13 08:52:16] ERROR _render_combined failed: [Errno 2] 没有那个文件或目录: '/tmp/klut_combined_preview.tmp' -> '/tmp/klut_combined_preview.png'
+[2026-06-13 08:52:16] INFO  PLQY0780.JPG | default_chrome | 1593ms
+[2026-06-13 08:54:57] INFO  klut backend initialized
+[2026-06-13 08:54:58] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 08:54:58] INFO  Restored 1 image(s)
+[2026-06-13 08:54:59] INFO  PLQY0780.JPG | default_bleach | 841ms
+[2026-06-13 08:54:59] INFO  Restored 16 LUT(s)
+[2026-06-13 08:55:19] INFO  PLQY0780.JPG | default_blue | 730ms
+[2026-06-13 08:55:20] INFO  PLQY0780.JPG | default_bleach | 781ms
+[2026-06-13 08:55:45] INFO  PLQY0780.JPG | default_eternal | 746ms
+[2026-06-13 08:55:46] INFO  PLQY0780.JPG | default_eternal | 741ms
+[2026-06-13 08:56:15] INFO  PLQY0780.JPG | mono_gregwilliams | 743ms
+[2026-06-13 09:02:36] INFO  klut backend initialized
+[2026-06-13 09:02:37] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 09:02:37] INFO  Restored 1 image(s)
+[2026-06-13 09:02:38] INFO  PLQY0780.JPG | default_bleach | 748ms
+[2026-06-13 09:02:38] INFO  Restored 16 LUT(s)
+[2026-06-13 09:07:03] INFO  klut backend initialized
+[2026-06-13 09:07:03] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 09:07:03] INFO  Restored 1 image(s)
+[2026-06-13 09:07:04] INFO  PLQY0780.JPG | default_bleach | 848ms
+[2026-06-13 09:07:04] INFO  Restored 16 LUT(s)
+[2026-06-13 09:08:14] INFO  PLQY0777.JPG | default_bleach | 859ms
+[2026-06-13 09:08:14] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 09:08:14] INFO  Loaded 10 image(s)
+[2026-06-13 09:08:19] INFO  PLQY0786.JPG | default_bleach | 714ms
+[2026-06-13 09:08:19] INFO  Loaded: PLQY0786.JPG (1023x682)
+[2026-06-13 09:08:24] INFO  Launching extension: ext_ai
+[2026-06-13 09:08:25] INFO  AiEvalDialog showing…
+[2026-06-13 09:12:12] INFO  AiEvalDialog closed
+[2026-06-13 09:12:12] INFO  Extension launched: ext_ai
+[2026-06-13 09:12:13] INFO  klut backend initialized
+[2026-06-13 09:12:14] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 09:12:14] INFO  Restored 10 image(s)
+[2026-06-13 09:12:15] INFO  PLQY0777.JPG | default_bleach | 885ms
+[2026-06-13 09:12:15] INFO  Restored 16 LUT(s)
+[2026-06-13 09:13:02] INFO  Launching extension: ext_ai
+[2026-06-13 09:13:02] INFO  AiEvalDialog showing…
+[2026-06-13 09:13:49] INFO  AiEvalDialog closed
+[2026-06-13 09:13:49] INFO  Extension launched: ext_ai
+[2026-06-13 09:14:21] INFO  klut backend initialized
+[2026-06-13 09:14:21] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 09:14:21] INFO  Restored 10 image(s)
+[2026-06-13 09:14:23] INFO  PLQY0777.JPG | default_bleach | 873ms
+[2026-06-13 09:14:23] INFO  Restored 16 LUT(s)
+[2026-06-13 09:15:43] INFO  PLQY0782.JPG | default_bleach | 784ms
+[2026-06-13 09:15:43] INFO  Loaded: PLQY0782.JPG (1023x682)
+[2026-06-13 09:15:47] INFO  PLQY0782.JPG | default_eternal | 754ms
+[2026-06-13 09:15:49] INFO  PLQY0782.JPG | default_eternal | 802ms
+[2026-06-13 09:15:49] INFO  PLQY0782.JPG | default_eternal | 785ms
+[2026-06-13 09:19:25] INFO  klut backend initialized
+[2026-06-13 09:19:25] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 09:19:25] INFO  Restored 10 image(s)
+[2026-06-13 09:19:27] INFO  PLQY0777.JPG | default_bleach | 853ms
+[2026-06-13 09:19:27] INFO  Restored 16 LUT(s)
+[2026-06-13 09:20:31] INFO  Launching extension: ext_ai
+[2026-06-13 09:20:31] INFO  AiEvalDialog showing…
+[2026-06-13 09:21:38] INFO  AiEvalDialog closed
+[2026-06-13 09:21:38] INFO  Extension launched: ext_ai
+[2026-06-13 09:24:45] INFO  klut backend initialized
+[2026-06-13 09:24:46] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 09:24:46] INFO  Restored 10 image(s)
+[2026-06-13 09:24:47] INFO  PLQY0777.JPG | default_bleach | 799ms
+[2026-06-13 09:24:47] INFO  Restored 16 LUT(s)
+[2026-06-13 09:24:53] INFO  Launching extension: ext_ai
+[2026-06-13 09:24:53] INFO  AiEvalDialog showing…
+[2026-06-13 09:34:39] INFO  AiEvalDialog closed
+[2026-06-13 09:34:39] INFO  Extension launched: ext_ai
+[2026-06-13 09:34:42] INFO  klut backend initialized
+[2026-06-13 09:34:42] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 09:34:42] INFO  Restored 10 image(s)
+[2026-06-13 09:34:44] INFO  PLQY0777.JPG | default_bleach | 778ms
+[2026-06-13 09:34:44] INFO  Restored 16 LUT(s)
+[2026-06-13 09:34:49] INFO  Launching extension: ext_ai
+[2026-06-13 09:34:49] INFO  AiEvalDialog showing…
+[2026-06-13 09:44:37] INFO  AiEvalDialog closed
+[2026-06-13 09:44:37] INFO  Extension launched: ext_ai
+[2026-06-13 09:44:39] INFO  Launching extension: ext_histogram
+[2026-06-13 09:44:42] INFO  Extension launched: ext_histogram
+[2026-06-13 09:44:45] INFO  PLQY0784.JPG | default_bleach | 715ms
+[2026-06-13 09:44:45] INFO  Loaded: PLQY0784.JPG (1023x682)
+[2026-06-13 09:53:28] INFO  klut backend initialized
+[2026-06-13 09:53:28] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 09:53:28] INFO  Restored 10 image(s)
+[2026-06-13 09:53:29] INFO  PLQY0777.JPG | default_bleach | 737ms
+[2026-06-13 09:53:29] INFO  Restored 16 LUT(s)
+[2026-06-13 09:53:37] INFO  PLQY0781.JPG | default_bleach | 696ms
+[2026-06-13 09:53:37] INFO  Loaded: PLQY0781.JPG (1023x682)
+[2026-06-13 09:53:41] INFO  PLQY0781.JPG | default_eternal | 667ms
+[2026-06-13 09:53:45] INFO  PLQY0784.JPG | default_eternal | 712ms
+[2026-06-13 09:53:45] INFO  Loaded: PLQY0784.JPG (1023x682)
+[2026-06-13 09:53:53] INFO  PLQY0785.JPG | default_eternal | 683ms
+[2026-06-13 09:53:53] INFO  Loaded: PLQY0785.JPG (1023x682)
+[2026-06-13 09:54:00] INFO  PLQY0782.JPG | default_eternal | 714ms
+[2026-06-13 09:54:00] INFO  Loaded: PLQY0782.JPG (1023x682)
+[2026-06-13 09:54:42] INFO  PLQY0782.JPG | default_eternal | 1439ms
+[2026-06-13 09:54:45] INFO  PLQY0782.JPG | default_eternal | 689ms
+[2026-06-13 14:51:15] INFO  klut backend initialized
+[2026-06-13 14:51:16] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 14:51:16] INFO  Restored 10 image(s)
+[2026-06-13 14:51:18] INFO  PLQY0777.JPG | default_bleach | 811ms
+[2026-06-13 14:51:18] INFO  Restored 16 LUT(s)
+[2026-06-13 14:51:24] INFO  PLQY0777.JPG | mono_selenium | 737ms
+[2026-06-13 14:51:25] INFO  PLQY0777.JPG | mono_selenium | 723ms
+[2026-06-13 14:51:26] INFO  PLQY0777.JPG | mono_gregwilliams | 705ms
+[2026-06-13 14:51:27] INFO  PLQY0777.JPG | mono_gregwilliams | 756ms
+[2026-06-13 14:51:29] INFO  PLQY0777.JPG | mono_blue | 736ms
+[2026-06-13 14:51:30] INFO  PLQY0777.JPG | mono_blue | 736ms
+[2026-06-13 14:51:32] INFO  PLQY0777.JPG | default_teal | 752ms
+[2026-06-13 14:51:32] INFO  PLQY0777.JPG | default_teal | 741ms
+[2026-06-13 14:51:37] INFO  PLQY0780.JPG | default_teal | 697ms
+[2026-06-13 14:51:37] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 14:51:47] INFO  PLQY0780.JPG | default_silver | 717ms
+[2026-06-13 14:51:48] INFO  PLQY0780.JPG | default_silver | 692ms
+[2026-06-13 14:51:52] INFO  PLQY0780.JPG | default_sepia | 694ms
+[2026-06-13 14:51:53] INFO  PLQY0780.JPG | default_sepia | 696ms
+[2026-06-13 14:51:57] INFO  PLQY0780.JPG | default_selenium | 693ms
+[2026-06-13 14:51:58] INFO  PLQY0780.JPG | default_selenium | 690ms
+[2026-06-13 14:52:01] INFO  PLQY0780.JPG | default_gregwilliams | 685ms
+[2026-06-13 14:52:02] INFO  PLQY0780.JPG | default_gregwilliams | 691ms
+[2026-06-13 14:52:06] INFO  PLQY0780.JPG | default_eternal | 690ms
+[2026-06-13 14:52:06] INFO  PLQY0780.JPG | default_eternal | 681ms
+[2026-06-13 14:52:11] INFO  PLQY0780.JPG | default_contemporary | 691ms
+[2026-06-13 14:52:12] INFO  PLQY0780.JPG | default_contemporary | 684ms
+[2026-06-13 14:52:16] INFO  PLQY0780.JPG | default_classic | 669ms
+[2026-06-13 14:52:17] INFO  PLQY0780.JPG | default_classic | 665ms
+[2026-06-13 14:52:24] INFO  PLQY0780.JPG | default_chrome | 686ms
+[2026-06-13 14:52:25] INFO  PLQY0780.JPG | default_chrome | 692ms
+[2026-06-13 14:52:26] INFO  PLQY0780.JPG | default_brass | 683ms
+[2026-06-13 14:52:27] INFO  PLQY0780.JPG | default_brass | 674ms
+[2026-06-13 14:52:28] INFO  PLQY0780.JPG | default_blue | 691ms
+[2026-06-13 14:52:29] INFO  PLQY0780.JPG | default_blue | 697ms
+[2026-06-13 14:52:30] INFO  PLQY0780.JPG | default_bleach | 707ms
+[2026-06-13 14:52:31] INFO  PLQY0780.JPG | default_bleach | 737ms
+[2026-06-13 14:52:40] INFO  PLQY0780.JPG | default_bleach | 1514ms
+[2026-06-13 14:52:42] INFO  PLQY0780.JPG | default_bleach | 1528ms
+[2026-06-13 14:52:46] INFO  PLQY0780.JPG | default_bleach | 711ms
+[2026-06-13 14:52:48] INFO  PLQY0780.JPG | default_bleach | 1439ms
+[2026-06-13 14:52:54] INFO  PLQY0780.JPG | default_bleach | 1383ms
+[2026-06-13 14:52:56] INFO  PLQY0780.JPG | default_bleach | 693ms
+[2026-06-13 14:52:58] INFO  PLQY0780.JPG | mono_sepia | 1483ms
+[2026-06-13 14:52:59] INFO  PLQY0780.JPG | mono_sepia | 1489ms
+[2026-06-13 14:53:03] INFO  PLQY0780.JPG | mono_sepia | 725ms
+[2026-06-13 14:53:08] INFO  PLQY0784.JPG | mono_sepia | 727ms
+[2026-06-13 14:53:08] INFO  Loaded: PLQY0784.JPG (1023x682)
+[2026-06-13 14:53:08] INFO  PLQY0784.JPG | mono_sepia | 734ms
+[2026-06-13 14:53:08] INFO  Loaded: PLQY0784.JPG (1023x682)
+[2026-06-13 14:53:09] INFO  PLQY0784.JPG | mono_sepia | 714ms
+[2026-06-13 14:53:09] INFO  Loaded: PLQY0784.JPG (1023x682)
+[2026-06-13 14:53:14] INFO  PLQY0784.JPG | default_eternal | 705ms
+[2026-06-13 14:53:48] INFO  PLQY0784.JPG | default_eternal | 726ms
+[2026-06-13 14:53:55] INFO  PLQY0785.JPG | default_eternal | 680ms
+[2026-06-13 14:53:55] INFO  Loaded: PLQY0785.JPG (1023x682)
+[2026-06-13 14:58:38] INFO  klut backend initialized
+[2026-06-13 14:58:38] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 14:58:38] INFO  Restored 10 image(s)
+[2026-06-13 14:58:40] INFO  PLQY0777.JPG | default_bleach | 777ms
+[2026-06-13 14:58:40] INFO  Restored 16 LUT(s)
+[2026-06-13 14:58:44] INFO  PLQY0778.JPG | default_bleach | 720ms
+[2026-06-13 14:58:44] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 14:58:45] INFO  PLQY0779.JPG | default_bleach | 721ms
+[2026-06-13 14:58:45] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-13 14:58:46] INFO  PLQY0780.JPG | default_bleach | 710ms
+[2026-06-13 14:58:46] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 14:58:49] INFO  PLQY0781.JPG | default_bleach | 721ms
+[2026-06-13 14:58:49] INFO  Loaded: PLQY0781.JPG (1023x682)
+[2026-06-13 14:59:17] INFO  PLQY0781.JPG | default_silver | 724ms
+[2026-06-13 14:59:25] INFO  PLQY0780.JPG | default_silver | 722ms
+[2026-06-13 14:59:25] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 14:59:29] INFO  PLQY0781.JPG | default_silver | 796ms
+[2026-06-13 14:59:29] INFO  Loaded: PLQY0781.JPG (1023x682)
+[2026-06-13 14:59:35] INFO  PLQY0777.JPG | default_silver | 748ms
+[2026-06-13 14:59:35] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 14:59:43] INFO  klut backend initialized
+[2026-06-13 14:59:43] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 14:59:43] INFO  Restored 10 image(s)
+[2026-06-13 14:59:45] INFO  PLQY0777.JPG | default_bleach | 772ms
+[2026-06-13 14:59:45] INFO  Restored 16 LUT(s)
+[2026-06-13 14:59:51] INFO  PLQY0778.JPG | default_bleach | 783ms
+[2026-06-13 14:59:51] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:00:45] INFO  klut backend initialized
+[2026-06-13 15:00:45] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:00:45] INFO  Restored 10 image(s)
+[2026-06-13 15:00:46] INFO  PLQY0777.JPG | default_bleach | 785ms
+[2026-06-13 15:00:46] INFO  Restored 16 LUT(s)
+[2026-06-13 15:00:51] INFO  PLQY0786.JPG | default_bleach | 704ms
+[2026-06-13 15:00:51] INFO  Loaded: PLQY0786.JPG (1023x682)
+[2026-06-13 15:00:57] INFO  PLQY0786.JPG | default_eternal | 669ms
+[2026-06-13 15:02:38] INFO  PLQY0786.JPG | default_gregwilliams | 739ms
+[2026-06-13 15:02:40] INFO  Launching extension: ext_compare
+[2026-06-13 15:02:50] INFO  Extension launched: ext_compare
+[2026-06-13 15:02:52] INFO  Launching extension: ext_histogram
+[2026-06-13 15:03:01] INFO  Extension launched: ext_histogram
+[2026-06-13 15:03:03] INFO  Launching extension: ext_lut_convert
+[2026-06-13 15:03:12] INFO  Extension launched: ext_lut_convert
+[2026-06-13 15:03:15] INFO  PLQY0780.JPG | default_gregwilliams | 756ms
+[2026-06-13 15:03:15] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 15:03:23] INFO  klut backend initialized
+[2026-06-13 15:03:23] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:03:23] INFO  Restored 10 image(s)
+[2026-06-13 15:03:24] INFO  PLQY0777.JPG | default_bleach | 767ms
+[2026-06-13 15:03:24] INFO  Restored 16 LUT(s)
+[2026-06-13 15:03:32] INFO  PLQY0778.JPG | default_bleach | 727ms
+[2026-06-13 15:03:32] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:03:52] INFO  klut backend initialized
+[2026-06-13 15:03:52] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:03:52] INFO  Restored 10 image(s)
+[2026-06-13 15:03:54] INFO  PLQY0777.JPG | default_bleach | 775ms
+[2026-06-13 15:03:54] INFO  Restored 16 LUT(s)
+[2026-06-13 15:05:02] INFO  klut backend initialized
+[2026-06-13 15:05:02] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:05:02] INFO  Restored 10 image(s)
+[2026-06-13 15:05:04] INFO  PLQY0777.JPG | default_bleach | 782ms
+[2026-06-13 15:05:04] INFO  Restored 16 LUT(s)
+[2026-06-13 15:05:09] INFO  PLQY0779.JPG | default_bleach | 739ms
+[2026-06-13 15:05:09] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-13 15:06:54] INFO  klut backend initialized
+[2026-06-13 15:06:54] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:06:54] INFO  Restored 10 image(s)
+[2026-06-13 15:06:55] INFO  PLQY0777.JPG | default_bleach | 775ms
+[2026-06-13 15:06:55] INFO  Restored 16 LUT(s)
+[2026-06-13 15:07:02] INFO  PLQY0778.JPG | default_bleach | 725ms
+[2026-06-13 15:07:02] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:07:06] INFO  PLQY0779.JPG | default_bleach | 730ms
+[2026-06-13 15:07:06] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-13 15:07:21] INFO  PLQY0778.JPG | default_bleach | 729ms
+[2026-06-13 15:07:21] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:07:22] INFO  PLQY0777.JPG | default_bleach | 759ms
+[2026-06-13 15:07:22] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:07:25] INFO  PLQY0779.JPG | default_bleach | 746ms
+[2026-06-13 15:07:25] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-13 15:07:26] INFO  PLQY0780.JPG | default_bleach | 702ms
+[2026-06-13 15:07:26] INFO  Loaded: PLQY0780.JPG (1023x682)
+[2026-06-13 15:08:56] INFO  klut backend initialized
+[2026-06-13 15:08:57] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:08:57] INFO  Restored 10 image(s)
+[2026-06-13 15:08:58] INFO  PLQY0777.JPG | default_bleach | 788ms
+[2026-06-13 15:08:58] INFO  Restored 16 LUT(s)
+[2026-06-13 15:09:02] INFO  PLQY0778.JPG | default_bleach | 714ms
+[2026-06-13 15:09:02] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:09:11] INFO  PLQY0778.JPG | default_blue | 700ms
+[2026-06-13 15:09:13] INFO  PLQY0778.JPG | default_brass | 742ms
+[2026-06-13 15:10:24] INFO  klut backend initialized
+[2026-06-13 15:10:25] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:10:25] INFO  Restored 10 image(s)
+[2026-06-13 15:10:26] INFO  PLQY0777.JPG | default_bleach | 850ms
+[2026-06-13 15:10:26] INFO  Restored 16 LUT(s)
+[2026-06-13 15:10:31] INFO  PLQY0778.JPG | default_bleach | 822ms
+[2026-06-13 15:10:31] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:10:32] INFO  PLQY0778.JPG | default_bleach | 767ms
+[2026-06-13 15:10:32] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:10:36] INFO  PLQY0779.JPG | default_bleach | 778ms
+[2026-06-13 15:10:36] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-13 15:10:37] INFO  PLQY0779.JPG | default_bleach | 780ms
+[2026-06-13 15:10:37] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-13 15:11:01] INFO  PLQY0778.JPG | default_bleach | 766ms
+[2026-06-13 15:11:01] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:12:58] INFO  klut backend initialized
+[2026-06-13 15:12:58] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:12:58] INFO  Restored 10 image(s)
+[2026-06-13 15:12:59] INFO  PLQY0777.JPG | default_bleach | 837ms
+[2026-06-13 15:12:59] INFO  Restored 16 LUT(s)
+[2026-06-13 15:13:03] INFO  PLQY0778.JPG | default_bleach | 764ms
+[2026-06-13 15:13:03] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:13:04] INFO  PLQY0778.JPG | default_bleach | 797ms
+[2026-06-13 15:13:04] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:13:05] INFO  PLQY0777.JPG | default_bleach | 809ms
+[2026-06-13 15:13:05] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:13:11] INFO  PLQY0779.JPG | default_bleach | 50ms
+[2026-06-13 15:13:11] INFO  Loaded: PLQY0779.JPG (255x170)
+[2026-06-13 15:13:14] INFO  PLQY0778.JPG | default_bleach | 774ms
+[2026-06-13 15:13:14] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:13:18] INFO  PLQY0780.JPG | default_bleach | 53ms
+[2026-06-13 15:13:18] INFO  Loaded: PLQY0780.JPG (255x170)
+[2026-06-13 15:15:05] INFO  klut backend initialized
+[2026-06-13 15:15:05] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:15:05] INFO  Restored 10 image(s)
+[2026-06-13 15:15:06] INFO  PLQY0777.JPG | default_bleach | 845ms
+[2026-06-13 15:15:06] INFO  Restored 16 LUT(s)
+[2026-06-13 15:15:12] INFO  PLQY0779.JPG | default_bleach | 809ms
+[2026-06-13 15:15:12] INFO  Loaded: PLQY0779.JPG (1023x682)
+[2026-06-13 15:17:18] INFO  klut backend initialized
+[2026-06-13 15:17:18] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:17:18] INFO  Restored 10 image(s)
+[2026-06-13 15:17:20] INFO  PLQY0777.JPG | default_bleach | 950ms
+[2026-06-13 15:17:20] INFO  Restored 16 LUT(s)
+[2026-06-13 15:19:29] INFO  klut backend initialized
+[2026-06-13 15:19:29] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:19:29] INFO  Restored 10 image(s)
+[2026-06-13 15:19:31] INFO  PLQY0777.JPG | default_bleach | 850ms
+[2026-06-13 15:19:31] INFO  Restored 16 LUT(s)
+[2026-06-13 15:21:35] INFO  klut backend initialized
+[2026-06-13 15:21:35] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:21:35] INFO  Restored 10 image(s)
+[2026-06-13 15:21:36] INFO  PLQY0777.JPG | default_bleach | 775ms
+[2026-06-13 15:21:36] INFO  Restored 16 LUT(s)
+[2026-06-13 15:21:41] INFO  PLQY0778.JPG | default_bleach | 720ms
+[2026-06-13 15:21:41] INFO  Loaded: PLQY0778.JPG (1023x682)
+[2026-06-13 15:25:41] INFO  klut backend initialized
+[2026-06-13 15:25:41] INFO  Loaded: PLQY0777.JPG (1023x682)
+[2026-06-13 15:25:41] INFO  Restored 10 image(s)
+[2026-06-13 15:25:43] INFO  PLQY0777.JPG | default_bleach | 841ms
+[2026-06-13 15:25:43] INFO  Restored 16 LUT(s)
+[2026-06-13 15:25:51] INFO  PLQY0778.JPG | default_bleach | 778ms
+[2026-06-13 15:25:51] INFO  Loaded: PLQY0778.JPG (1023x682)

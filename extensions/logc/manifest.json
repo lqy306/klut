@@ -1,0 +1,12 @@
+{
+    "name": "LogC",
+    "name_zh": "LogC (ARRI)",
+    "id": "logc",
+    "version": "1.0.0",
+    "author": "klut",
+    "license": "BSD-2-Clause",
+    "type": "colorspace",
+    "description": "ARRI LogC EI 800 colorspace support",
+    "description_zh": "ARRI LogC EI 800 色彩空间支持",
+    "entry": "__init__.py"
+}

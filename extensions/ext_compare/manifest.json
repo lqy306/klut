@@ -1,0 +1,14 @@
+{
+    "name": "LUT Grid Compare",
+    "name_zh": "LUT 网格对比",
+    "id": "ext_compare",
+    "version": "1.0.0",
+    "author": "klut",
+    "license": "BSD-2-Clause",
+    "type": "python",
+    "description": "Compare multiple LUTs on one image in a grid layout",
+    "description_zh": "网格布局同时对比多个 LUT 效果",
+    "entry": "ext_compare.py",
+    "depends": [],
+    "min_app_version": "1.0"
+}

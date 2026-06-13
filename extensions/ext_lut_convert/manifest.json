@@ -1,0 +1,14 @@
+{
+    "name": "LUT Converter",
+    "name_zh": "LUT 色彩空间转换",
+    "id": "ext_lut_convert",
+    "version": "1.0.0",
+    "author": "klut",
+    "license": "BSD-2-Clause",
+    "type": "python",
+    "description": "Convert a .cube LUT between colorspaces (e.g. V-Log → Rec.709). Uses installed colorspace extensions.",
+    "description_zh": "将 .cube LUT 在不同色彩空间间转换（如 V-Log → Rec.709），依赖已安装的色彩空间支持拓展。",
+    "entry": "ext_lut_convert.py",
+    "depends": [],
+    "min_app_version": "1.0"
+}
