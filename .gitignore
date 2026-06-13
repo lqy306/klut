@@ -8,3 +8,5 @@ dist/
 *.spec
 *.klutx
 extensions/settings.json
+log.txt
+extensions/ext_ai/config.json
